@@ -1,3 +1,5 @@
+![Esquema do Circuito](1.jpg)
+
 # Descrição do Circuito de Fonte de Alimentação
 
 Este circuito converte a tensão alternada (AC) para uma tensão contínua regulada (DC), com filtragem e proteção. Ele é adequado para alimentar circuitos eletrônicos e sistemas embarcados.
