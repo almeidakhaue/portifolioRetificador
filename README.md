@@ -1,16 +1,16 @@
 # Imagens do Circuito
 
 ### Imagem 1
-![Imagem 1](images/1.png)
+![Imagem 1](images/1.jpg)
 
 ### Imagem 2
-![Imagem 2](images/2.png)
+![Imagem 2](images/2.jpg)
 
 ### Imagem 3
-![Imagem 3](images/3.png)
+![Imagem 3](images/3.jpg)
 
 ### Imagem 4
-![Imagem 4](images/4.png)
+![Imagem 4](images/4.jpg)
 
 # Descrição do Circuito de Fonte de Alimentação
 
