@@ -69,6 +69,3 @@ Este circuito converte a tensão alternada (AC) para uma tensão contínua regul
 
 Sinta-se à vontade para contribuir com melhorias ou ajustes no código e no projeto. Abra um **Pull Request** para sugestões!
 
----
-
-Se precisar de mais detalhes sobre algum componente específico, fique à vontade para perguntar! 🚀
